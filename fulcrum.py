@@ -1,6 +1,5 @@
 #iMPoRTaNT NoTe - install PyAudio by - pipwin install PyAudio. To install pipwin - pip install pipwin 
 import pyttsx3
-import pywhatkit
 import speech_recognition as sr
 # import wikipedia as wiki - this wiki was not giving accurate results but cant uninstall it as pywhatkit is dependent on it for info() function
 from mediawiki import MediaWiki as wiki
