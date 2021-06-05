@@ -7,7 +7,8 @@ Features -
 - can read and speak results from wiki
 - can play songs on youtube
 
-*More Features are on the way - Emails, Whatsapp texts etc...*
+**More Features are on the way - Emails, Whatsapp texts etc...**
+
 *Using a better module for wiki results... MediaWiki is being used in place of wikipedia*
 ________________________
 In order to run this assistant on your pc first type in your terminal :
